@@ -39,7 +39,7 @@ project-root/
 └── requirements.txt       # Dependencies
 
 # Setup Instructions
-Clone the repository: git clone https://github.com/yourusername/price-prediction.git
+Clone the repository: git clone https://github.com/Ganesh-1902/price-prediction.git
 
 Install dependencies: pip install -r requirements.txt (includes pandas, scikit-learn, matplotlib, seaborn)
 
