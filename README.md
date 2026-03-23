@@ -1,4 +1,4 @@
-# Price-Predict
+# YBI FOUNDATION INTERNSHIP
 
 # House Price Prediction Project
 
